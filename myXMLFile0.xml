@@ -1,0 +1,21 @@
+<root>
+  <person
+  firstname="Ingrid"
+  lastname="Gemini"
+  city="Kandahar"
+  country="Portugal"
+  firstname2="Donnie"
+  lastname2="Lia"
+  email="Donnie.Lia@yopmail.com"
+  />
+  <random>9</random>
+  <random_float>94.316</random_float>
+  <bool>false</bool>
+  <date>1981-02-14</date>
+  <regEx>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo world</regEx>
+  <enum>online</enum>
+  <elt>Elora</elt><elt>Kary</elt><elt>Netty</elt><elt>Myriam</elt><elt>Elsie</elt>  
+  <Donnie>
+    <age>18</age>
+  </Donnie>
+</root>
